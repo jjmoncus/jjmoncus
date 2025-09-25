@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jjmoncus
-- 👀 I'm half-researcher, half-data-scientist
-- 🌱 I’m currently a Principal @ Gartner
-- 📫 You can reach me at jj.moncus@gartner.com
+- 👀 I'm a researcher, data scientist, and software developer
+- 🌱 I’m currently studying an MSc in Machine Learning at UCL
+- 🎯 ex-Gartner, ex-Pew-Research-Center
+- 📫 You can reach me at jjmoncus706@gmail.com
 
 <!---
 jjmoncus/jjmoncus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
