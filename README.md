@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjmoncus
-- 👀 I'm a researcher, data scientist, and software developer
-- 🌱 I’m currently studying an MSc in Machine Learning at UCL
+- 👀 I'm an AI safety researcher, software developer, and program manager.
+- 🌱 I’ve just finished an MSc in Machine Learning at UCL
 - 🎯 ex-Gartner, ex-Pew-Research-Center
 - 📫 You can reach me at jjmoncus706@gmail.com
 
